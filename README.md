@@ -1,7 +1,7 @@
 # Hi there, I'm Md Nasim 👋
 
 <div align="center">
-  <img src="https://nascoder.com/logo.png" alt="Nascoder Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/freelancernasimofficial/freelancernasimofficial/refs/heads/main/google_size_light.jpg" alt="Nascoder Logo" width="150"/>
   
   ### Founder & CEO of [Nascoder LLC](https://nascoder.com)
   **Enterprise Software Solutions | 17+ Years Experience**
