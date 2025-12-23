@@ -118,12 +118,12 @@
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/freelancernasimofficial/freelancernasimofficial/main/nasim_logo_dark_mode.svg" width="400" alt="Nascoder LLC Logo" style="margin: 20px 0;"/>
+  <img src="https://raw.githubusercontent.com/freelancernasimofficial/freelancernasimofficial/main/nasim_logo.jpg" width="700" alt="Nascoder - Beyond Limitations..." style="margin: 25px 0;"/>
 
-  <p style="font-size: 20px; color: #c9d1d9; max-width: 1000px; margin: 20px auto; line-height: 1.8;">
-    <strong style="color: #FF6B35;">Nascoder LLC</strong> is an elite <strong style="color: #58a6ff;">enterprise software development company</strong> specializing in <strong style="color: #a371f7;">AI-powered platforms</strong> and <strong style="color: #3fb950;">mission-critical fintech systems</strong>. Processing <strong style="color: #00FF00;">$10M+ monthly</strong> in secure transactions with <strong>99.9% uptime</strong>, we serve <strong>50+ enterprise clients</strong> across <strong>15+ countries</strong> including Fortune 500 companies in healthcare, finance, and e-commerce sectors.
+  <p style="font-size: 18px; color: #e6edf3; max-width: 1000px; margin: 30px auto 40px; line-height: 1.9; font-weight: 400;">
+    <strong style="color: #FF6B35; font-weight: 700;">Nascoder LLC</strong> is an elite <strong style="color: #7dd3fc; font-weight: 600;">enterprise software development company</strong> specializing in <strong style="color: #c084fc; font-weight: 600;">AI-powered platforms</strong> and <strong style="color: #4ade80; font-weight: 600;">mission-critical fintech systems</strong>. Processing <strong style="color: #10b981; font-weight: 700;">$10M+ monthly</strong> in secure transactions with <strong style="font-weight: 700;">99.9% uptime</strong>, we serve <strong style="font-weight: 700;">50+ enterprise clients</strong> across <strong style="font-weight: 700;">15+ countries</strong> including Fortune 500 companies in healthcare, finance, and e-commerce sectors.
     <br/><br/>
-    Backed by <strong style="color: #FFD700;">$10.5M+ in verified enterprise partnerships</strong> from <strong>Anthropic ($10M), Auth0 ($500K), AWS, Perplexity AI, and top tech platforms</strong>. Headquartered in <strong>🇧🇩 Dhaka, Bangladesh</strong>, with a global footprint and <strong>PCI DSS Level 1, SOC 2, and ISO 27001</strong> compliance.
+    Backed by <strong style="color: #fbbf24; font-weight: 700;">$10.5M+ in verified enterprise partnerships</strong> from <strong style="font-weight: 700;">Anthropic ($10M), Auth0 ($500K), AWS, Perplexity AI, and top tech platforms</strong>. Headquartered in <strong style="font-weight: 700;">🇧🇩 Dhaka, Bangladesh</strong>, with a global footprint and <strong style="font-weight: 700;">PCI DSS Level 1, SOC 2, and ISO 27001</strong> compliance.
   </p>
 </div>
 
