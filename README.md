@@ -13,11 +13,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=2000&pause=3000&color=FF6B35&center=true&vCenter=true&repeat=false&width=600&lines=MD+NASIM" alt="Name"/>
   </h1>
 
-  <p style="font-size: 24px; font-weight: 600;">
+  <p style="font-size: 26px; font-weight: 700; margin: 20px 0; line-height: 1.4;">
     <strong style="color: #FF6B35;">Founder & CEO</strong> — <a href="https://nascoder.com" style="color: #58a6ff; text-decoration: none;">Nascoder LLC</a>
   </p>
 
-  <p style="font-size: 18px; color: #c9d1d9;">
+  <p style="font-size: 19px; color: #e6edf3; font-weight: 500; line-height: 1.8; margin: 15px 0;">
     🏗️ Enterprise Software Architect • 💼 17+ Years Experience • 🔐 Fintech Pioneer • 🤖 AI/ML Specialist
   </p>
 </div>
@@ -61,47 +61,47 @@
 <br/>
 
 <div align="center">
-  <p style="font-size: 20px; color: #c9d1d9; max-width: 1000px; margin: 20px auto; line-height: 2; text-align: left;">
-    <strong style="color: #FF6B35; font-size: 22px;">MD NASIM</strong> is a distinguished <strong style="color: #58a6ff;">enterprise software architect</strong> and <strong style="color: #3fb950;">fintech pioneer</strong> with over <strong>17 years</strong> of proven expertise in building mission-critical systems that power global enterprises. As the <strong style="color: #FF6B35;">Founder & CEO of Nascoder LLC</strong>, he leads a world-class team of 25+ elite developers serving Fortune 500 clients across 15+ countries.
+  <p style="font-size: 18px; color: #e6edf3; max-width: 1000px; margin: 30px auto 40px; line-height: 1.9; text-align: left; font-weight: 400;">
+    <strong style="color: #FF6B35; font-size: 24px; font-weight: 700;">MD NASIM</strong> is a distinguished <strong style="color: #7dd3fc; font-weight: 600;">enterprise software architect</strong> and <strong style="color: #4ade80; font-weight: 600;">fintech pioneer</strong> with over <strong style="font-weight: 700;">17 years</strong> of proven expertise in building mission-critical systems that power global enterprises. As the <strong style="color: #FF6B35; font-weight: 700;">Founder & CEO of Nascoder LLC</strong>, he leads a world-class team of 25+ elite developers serving Fortune 500 clients across 15+ countries.
     <br/><br/>
-    Specializing in <strong style="color: #a371f7;">AI/ML integration</strong>, <strong style="color: #3fb950;">high-volume payment processing</strong>, and <strong style="color: #58a6ff;">cloud-native architecture</strong>, MD Nasim has architected systems processing <strong style="color: #00FF00;">$10M+ monthly in secure transactions</strong> with <strong>99.9% uptime</strong> and <strong>PCI DSS Level 1</strong> compliance. His enterprise credentials include <strong style="color: #FFD700;">Anthropic Enterprise Partnership with $10M monthly capacity</strong>, <strong>Auth0 B2B Professional with $500K in credits</strong>, and partnerships with AWS, Perplexity AI, and leading tech platforms.
+    Specializing in <strong style="color: #c084fc; font-weight: 600;">AI/ML integration</strong>, <strong style="color: #4ade80; font-weight: 600;">high-volume payment processing</strong>, and <strong style="color: #7dd3fc; font-weight: 600;">cloud-native architecture</strong>, MD Nasim has architected systems processing <strong style="color: #10b981; font-weight: 700;">$10M+ monthly in secure transactions</strong> with <strong style="font-weight: 700;">99.9% uptime</strong> and <strong style="font-weight: 700;">PCI DSS Level 1</strong> compliance. His enterprise credentials include <strong style="color: #fbbf24; font-weight: 700;">Anthropic Enterprise Partnership with $10M monthly capacity</strong>, <strong style="font-weight: 700;">Auth0 B2B Professional with $500K in credits</strong>, and partnerships with AWS, Perplexity AI, and leading tech platforms.
     <br/><br/>
-    A recognized expert in <strong style="color: #a371f7;">enterprise AI implementation</strong>, he pioneered production-grade <strong>MCP (Model Context Protocol) servers</strong> extending Claude AI capabilities at scale, with <strong>2,700+ NPM downloads</strong> and active deployments across healthcare, fintech, and e-commerce sectors. His work combines deep technical mastery with proven business acumen, delivering <strong>200+ successful projects</strong> with a <strong style="color: #FFD700;">95% client retention rate</strong> and <strong>98% satisfaction score</strong>.
+    A recognized expert in <strong style="color: #c084fc; font-weight: 600;">enterprise AI implementation</strong>, he pioneered production-grade <strong style="font-weight: 700;">MCP (Model Context Protocol) servers</strong> extending Claude AI capabilities at scale, with <strong style="font-weight: 700;">2,700+ NPM downloads</strong> and active deployments across healthcare, fintech, and e-commerce sectors. His work combines deep technical mastery with proven business acumen, delivering <strong style="font-weight: 700;">200+ successful projects</strong> with a <strong style="color: #fbbf24; font-weight: 700;">95% client retention rate</strong> and <strong style="font-weight: 700;">98% satisfaction score</strong>.
   </p>
 </div>
 
 <!-- Key Highlights -->
 <div align="center">
-  <table style="width: 95%; margin: 30px auto;">
+  <table style="width: 95%; margin: 40px auto 50px; border-spacing: 20px;">
     <tr>
-      <td width="33%" style="padding: 25px; border: 3px solid #FF6B35; border-radius: 15px; background: linear-gradient(135deg, rgba(255,107,53,0.1) 0%, rgba(255,107,53,0.2) 100%);">
-        <h3 style="color: #FF6B35;">💼 Professional Excellence</h3>
-        <ul style="text-align: left; font-size: 17px; line-height: 2;">
-          <li><strong>17+ years</strong> enterprise software development</li>
-          <li><strong>200+ projects</strong> delivered successfully</li>
-          <li>Serving <strong>50+ enterprise clients</strong> globally</li>
-          <li><strong>25+ elite developers</strong> in team</li>
-          <li>Presence in <strong>15+ countries</strong> worldwide</li>
+      <td width="33%" style="padding: 30px; border: 2px solid rgba(255,107,53,0.5); border-radius: 16px; background: linear-gradient(135deg, rgba(255,107,53,0.15) 0%, rgba(255,107,53,0.08) 100%);">
+        <h3 style="color: #ffa07a; font-size: 22px; font-weight: 700; margin-bottom: 20px;">💼 Professional Excellence</h3>
+        <ul style="text-align: left; font-size: 17px; line-height: 2.2; color: #e6edf3; font-weight: 400;">
+          <li><strong style="font-weight: 700;">17+ years</strong> enterprise software development</li>
+          <li><strong style="font-weight: 700;">200+ projects</strong> delivered successfully</li>
+          <li>Serving <strong style="font-weight: 700;">50+ enterprise clients</strong> globally</li>
+          <li><strong style="font-weight: 700;">25+ elite developers</strong> in team</li>
+          <li>Presence in <strong style="font-weight: 700;">15+ countries</strong> worldwide</li>
         </ul>
       </td>
-      <td width="33%" style="padding: 25px; border: 3px solid #58a6ff; border-radius: 15px; background: linear-gradient(135deg, rgba(88,166,255,0.1) 0%, rgba(88,166,255,0.2) 100%);">
-        <h3 style="color: #58a6ff;">🎯 Core Expertise</h3>
-        <ul style="text-align: left; font-size: 17px; line-height: 2;">
-          <li><strong>AI/ML Integration</strong> — Anthropic Enterprise</li>
-          <li><strong>Fintech Systems</strong> — $10M+ monthly processing</li>
-          <li><strong>Cloud Architecture</strong> — AWS, GCP, Azure</li>
-          <li><strong>Security & Compliance</strong> — PCI DSS, SOC 2</li>
-          <li><strong>Team Leadership</strong> — Global distributed teams</li>
+      <td width="33%" style="padding: 30px; border: 2px solid rgba(88,166,255,0.5); border-radius: 16px; background: linear-gradient(135deg, rgba(88,166,255,0.15) 0%, rgba(88,166,255,0.08) 100%);">
+        <h3 style="color: #7dd3fc; font-size: 22px; font-weight: 700; margin-bottom: 20px;">🎯 Core Expertise</h3>
+        <ul style="text-align: left; font-size: 17px; line-height: 2.2; color: #e6edf3; font-weight: 400;">
+          <li><strong style="font-weight: 700;">AI/ML Integration</strong> — Anthropic Enterprise</li>
+          <li><strong style="font-weight: 700;">Fintech Systems</strong> — $10M+ monthly processing</li>
+          <li><strong style="font-weight: 700;">Cloud Architecture</strong> — AWS, GCP, Azure</li>
+          <li><strong style="font-weight: 700;">Security & Compliance</strong> — PCI DSS, SOC 2</li>
+          <li><strong style="font-weight: 700;">Team Leadership</strong> — Global distributed teams</li>
         </ul>
       </td>
-      <td width="33%" style="padding: 25px; border: 3px solid #3fb950; border-radius: 15px; background: linear-gradient(135deg, rgba(63,185,80,0.1) 0%, rgba(63,185,80,0.2) 100%);">
-        <h3 style="color: #3fb950;">🏆 Key Achievements</h3>
-        <ul style="text-align: left; font-size: 17px; line-height: 2;">
-          <li><strong>$10.5M+</strong> in enterprise partnerships</li>
-          <li><strong>4000 RPM</strong> AI access (Anthropic)</li>
-          <li><strong>99.9% uptime</strong> SLA guarantee</li>
-          <li><strong>95% client retention</strong> rate</li>
-          <li><strong>2,700+ NPM downloads</strong> (Nascoder CLI)</li>
+      <td width="33%" style="padding: 30px; border: 2px solid rgba(63,185,80,0.5); border-radius: 16px; background: linear-gradient(135deg, rgba(63,185,80,0.15) 0%, rgba(63,185,80,0.08) 100%);">
+        <h3 style="color: #4ade80; font-size: 22px; font-weight: 700; margin-bottom: 20px;">🏆 Key Achievements</h3>
+        <ul style="text-align: left; font-size: 17px; line-height: 2.2; color: #e6edf3; font-weight: 400;">
+          <li><strong style="font-weight: 700;">$10.5M+</strong> in enterprise partnerships</li>
+          <li><strong style="font-weight: 700;">4000 RPM</strong> AI access (Anthropic)</li>
+          <li><strong style="font-weight: 700;">99.9% uptime</strong> SLA guarantee</li>
+          <li><strong style="font-weight: 700;">95% client retention</strong> rate</li>
+          <li><strong style="font-weight: 700;">2,700+ NPM downloads</strong> (Nascoder CLI)</li>
         </ul>
       </td>
     </tr>
@@ -327,7 +327,7 @@
         <h1 style="color: #00FF00; margin: 15px 0; font-size: 36px;">$10,000,000</h1>
         <p style="color: white; font-size: 18px; margin: 5px 0;"><strong>Monthly Spend Limit</strong></p>
         <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ 4,000 RPM All Models</p>
-        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Claude Opus 4.x Access</p>
+        <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Claude Opus 4.5 Access</p>
         <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ Custom Rate Limits</p>
         <p style="color: #FFD700; font-size: 16px; margin: 5px 0;">✓ 100GB File Storage</p>
       </td>
@@ -562,39 +562,39 @@ export PERPLEXITY_API_KEY="your-key" # Research queries
 
 <!-- AI Platforms -->
 <div align="center">
-  <h3 style="color: #A371F7; font-size: 28px;">🚀 AI Platforms & LLMs — ENTERPRISE TIER ACCESS</h3>
+  <h3 style="color: #e6a700; font-size: 32px; font-weight: 700; margin: 50px 0 40px 0;">🚀 AI Platforms & LLMs — ENTERPRISE TIER ACCESS (December 2025)</h3>
 
-  <table>
+  <table style="margin: 0 auto; border-spacing: 20px;">
     <tr>
-      <td align="center" width="140">
-        <img src="https://www.anthropic.com/_next/static/media/claude-icon.5a9be5eb.svg" width="64" height="64"/><br/>
-        <strong style="font-size: 18px;">Claude Opus 4.x</strong><br/>
-        <sub style="color: #FFD700;">⭐ $10M/mo • 4000 RPM</sub>
+      <td align="center" width="160" style="padding: 25px; background: linear-gradient(135deg, rgba(163,113,247,0.15) 0%, rgba(163,113,247,0.05) 100%); border-radius: 16px; border: 2px solid rgba(163,113,247,0.3);">
+        <img src="https://www.anthropic.com/_next/static/media/claude-icon.5a9be5eb.svg" width="72" height="72" style="margin-bottom: 15px;"/><br/>
+        <strong style="font-size: 19px; color: #e6edf3; font-weight: 600;">Claude Opus 4.5</strong><br/>
+        <sub style="color: #FFD700; font-size: 15px; font-weight: 600; margin-top: 8px; display: inline-block;">⭐ $10M/mo • 4000 RPM</sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="64" height="64"/><br/>
-        <strong style="font-size: 18px;">GPT-4 / GPT-4o</strong><br/>
-        <sub style="color: #3fb950;">✓ Enterprise API</sub>
+      <td align="center" width="160" style="padding: 25px; background: linear-gradient(135deg, rgba(16,163,127,0.15) 0%, rgba(16,163,127,0.05) 100%); border-radius: 16px; border: 2px solid rgba(16,163,127,0.3);">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="72" height="72" style="margin-bottom: 15px;"/><br/>
+        <strong style="font-size: 19px; color: #e6edf3; font-weight: 600;">GPT-4o & GPT-4 Turbo</strong><br/>
+        <sub style="color: #3fb950; font-size: 15px; font-weight: 600; margin-top: 8px; display: inline-block;">✓ Enterprise API Access</sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="64" height="64"/><br/>
-        <strong style="font-size: 18px;">Perplexity Pro</strong><br/>
-        <sub style="color: #FFD700;">⭐ 40 Seats Enterprise</sub>
+      <td align="center" width="160" style="padding: 25px; background: linear-gradient(135deg, rgba(31,182,255,0.15) 0%, rgba(31,182,255,0.05) 100%); border-radius: 16px; border: 2px solid rgba(31,182,255,0.3);">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="72" height="72" style="margin-bottom: 15px;"/><br/>
+        <strong style="font-size: 19px; color: #e6edf3; font-weight: 600;">Perplexity Pro</strong><br/>
+        <sub style="color: #FFD700; font-size: 15px; font-weight: 600; margin-top: 8px; display: inline-block;">⭐ 40 Seats Enterprise</sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/600px-Meta-Logo.png" width="64" height="64"/><br/>
-        <strong style="font-size: 18px;">Llama 3.1 / 3.2</strong><br/>
-        <sub style="color: #3fb950;">✓ Self-Hosted</sub>
+      <td align="center" width="160" style="padding: 25px; background: linear-gradient(135deg, rgba(24,119,242,0.15) 0%, rgba(24,119,242,0.05) 100%); border-radius: 16px; border: 2px solid rgba(24,119,242,0.3);">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/600px-Meta-Logo.png" width="72" height="72" style="margin-bottom: 15px;"/><br/>
+        <strong style="font-size: 19px; color: #e6edf3; font-weight: 600;">Llama 3.3 (405B)</strong><br/>
+        <sub style="color: #3fb950; font-size: 15px; font-weight: 600; margin-top: 8px; display: inline-block;">✓ Self-Hosted Production</sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="64" height="64"/><br/>
-        <strong style="font-size: 18px;">Mistral AI</strong><br/>
-        <sub style="color: #3fb950;">✓ API Access</sub>
+      <td align="center" width="160" style="padding: 25px; background: linear-gradient(135deg, rgba(255,103,69,0.15) 0%, rgba(255,103,69,0.05) 100%); border-radius: 16px; border: 2px solid rgba(255,103,69,0.3);">
+        <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="72" height="72" style="margin-bottom: 15px;"/><br/>
+        <strong style="font-size: 19px; color: #e6edf3; font-weight: 600;">Mistral Large 2</strong><br/>
+        <sub style="color: #3fb950; font-size: 15px; font-weight: 600; margin-top: 8px; display: inline-block;">✓ API & Self-Host</sub>
       </td>
-      <td align="center" width="140">
-        <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="64" height="64"/><br/>
-        <strong style="font-size: 18px;">Gemini Pro</strong><br/>
-        <sub style="color: #3fb950;">✓ Google AI</sub>
+      <td align="center" width="160" style="padding: 25px; background: linear-gradient(135deg, rgba(66,133,244,0.15) 0%, rgba(66,133,244,0.05) 100%); border-radius: 16px; border: 2px solid rgba(66,133,244,0.3);">
+        <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="72" height="72" style="margin-bottom: 15px;"/><br/>
+        <strong style="font-size: 19px; color: #e6edf3; font-weight: 600;">Gemini 2.0 Pro</strong><br/>
+        <sub style="color: #3fb950; font-size: 15px; font-weight: 600; margin-top: 8px; display: inline-block;">✓ Google AI Platform</sub>
       </td>
     </tr>
   </table>
@@ -656,10 +656,10 @@ export PERPLEXITY_API_KEY="your-key" # Research queries
 ```mermaid
 graph TB
     subgraph "🏆 ENTERPRISE AI LAYER - $10M Capacity"
-        Claude[Claude Opus 4.x<br/>4000 RPM<br/>$10M Monthly]
+        Claude[Claude Opus 4.5<br/>4000 RPM<br/>$10M Monthly]
         GPT[GPT-4/GPT-4o<br/>Enterprise API]
         Perplexity[Perplexity Pro<br/>40 Seats]
-        Llama[Llama 3.1/3.2<br/>Self-Hosted]
+        Llama[Llama 3.3 (405B)<br/>Self-Hosted]
     end
 
     subgraph "☁️ CLOUD PLATFORM LAYER"
@@ -723,7 +723,7 @@ graph TB
         <h4 style="color: #a371f7;">💬 Conversational AI</h4>
         <p>Enterprise chatbots handling <strong style="color: #3fb950;">100K+ monthly conversations</strong></p>
         <ul style="text-align: left; font-size: 15px;">
-          <li>Claude Opus 4.x powered (4000 RPM capacity)</li>
+          <li>Claude Opus 4.5 powered (4000 RPM capacity)</li>
           <li>Multi-language NLU & sentiment analysis</li>
           <li>Context retention across user sessions</li>
           <li>24/7 automated customer support</li>
