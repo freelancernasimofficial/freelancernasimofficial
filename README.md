@@ -176,6 +176,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=2000&pause=5000&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&lines=%F0%9F%8F%A2+NASCODER+LLC" alt="Nascoder LLC"/>
 
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/freelancernasimofficial/freelancernasimofficial/main/nasim_logo_dark_mode.svg" width="400" alt="Nascoder LLC Logo" style="margin: 20px 0;"/>
+
   <p style="font-size: 20px; color: #c9d1d9; max-width: 900px; margin: 20px auto; line-height: 1.8;">
     <strong style="color: #FF6B35;">Elite enterprise software development company</strong> building <em style="color: #58a6ff;">AI-powered platforms</em> that process <strong style="color: #3fb950;">$10M+ monthly</strong> in secure transactions. <strong>Backed by $500K+</strong> in enterprise credits from <strong>Anthropic, Auth0, AWS, and top tech companies</strong>. Headquartered in <strong>🇧🇩 Dhaka, Bangladesh</strong>, serving <strong>50+ enterprise clients across 15+ countries</strong>.
   </p>
